@@ -1,0 +1,9 @@
+These were the cases used.
+I had to do them one at a time because it stops
+when it finds an unmatched bracket.
+{{((})[[]]{}}}
+{{((])[[]]{}}}
+{{(())[[]]{)}}
+{{(())[[]]{]}}
+{{(())[[)]{}}}
+{{(())[[}]{}}}
